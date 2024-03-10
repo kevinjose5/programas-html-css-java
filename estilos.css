@@ -1,0 +1,91 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Satisfy&display=swap');
+/*font family e "satisfy", cursive*/
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Satisfy&display=swap');
+
+
+#cor-fundo{
+    background-color:rgb(227, 188, 136);
+}
+.corpo{
+    width:60%;
+    height:100%;
+    padding: 20px;
+    background-color: cornsilk;
+    margin-left: 20%;
+    margin-right: 20%;
+ 
+}
+.imagen{
+ 
+    background-image: url(image-omelette.jpeg);
+    height: 200px;
+    background-position: center;
+    background-size:cover ;
+    border: solid;
+}
+.titulo{
+   
+    font-family: "satisfy";
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+ 
+}
+.descrição{
+    font-size: 8px;
+    margin-right: 20px;
+    margin-left: 18px;
+    font-family: "satisfy";
+    font-weight: 340;
+}
+.tempodepreparo{
+    background-color: rgba(235, 154, 167, 0.426);
+    background-position: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 10px;
+    border-radius: 5px;  
+}
+.subtitulo{
+    font-size: 15px;
+    margin-right: 20px;
+    margin-left: 18px;
+    font-family: "satisfy";
+    color: brown;
+}
+.descricaodosub{
+    font-size: 8px;
+    font-family: "satisfy";
+    margin-right: 20px;
+}
+.negrito{
+    font-weight:bold;
+}
+hr{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgba(0, 0, 0, 0.324);
+}
+table{
+    width: 60%;
+}
+.coluna1{
+    font-size: 8px; 
+    padding-left: 10%;
+}
+.coluna2{
+    padding-right: 10%;
+    font-size: 8px;
+    color: red;
+    text-align: right;
+    font-weight:bold;
+    
+}
+
+
+
